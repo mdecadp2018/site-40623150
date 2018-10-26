@@ -30,10 +30,9 @@
 </v>
 <v t="leo.20181026113038.1" a="E"><vh>Week1 Homework</vh>
 <v t="leo.20181026113832.1"><vh>homework-1</vh></v>
-<v t="leo.20181026113109.1"><vh>homework-2</vh></v>
 </v>
-<v t="leo.20181026113659.1" a="E"><vh>導入影片</vh>
-<v t="leo.20181026113659.2"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181026113659.1" a="E"><vh>Week1 Homework-2</vh>
+<v t="leo.20181026113109.1"><vh>homework-2</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -379,12 +378,6 @@ make.start()
 
 
 						
-</t>
-<t tx="leo.20181026113659.2">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/jTNyVUuFsPo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181026113832.1">* Homework-1
 
