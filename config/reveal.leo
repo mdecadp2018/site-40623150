@@ -25,8 +25,11 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181026112232.1" a="E"><vh>W1</vh>
-<v t="leo.20181026112301.1" a="E"><vh>Week1</vh>
+<v t="leo.20181026112301.1"><vh>Week1</vh>
 <v t="leo.20181026112347.1"><vh>Week1上課內容</vh></v>
+</v>
+<v t="leo.20181026113038.1" a="E"><vh>Week1 Homework</vh>
+<v t="leo.20181026113109.1"><vh>homework</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -351,6 +354,22 @@ make.start()
 * 編輯 reveal.leo 簡報內容
 * 建立 pelican.leo 網誌
 * 將P37置入隨身碟
+</t>
+<t tx="leo.20181026113038.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181026113109.1">* Homework:
+
+[Week1 Homework-1](https://www.youtube.com/watch?v=jTNyVUuFsPo)
+
+
+[Week1 Homework-2](https://www.youtube.com/watch?v=T3ipO2KDy5s)
+
 </t>
 </tnodes>
 </leo_file>
