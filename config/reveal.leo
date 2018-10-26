@@ -29,20 +29,24 @@
 <v t="leo.20181026112347.1"><vh>Week1上課內容</vh></v>
 </v>
 <v t="leo.20181026113038.1" a="E"><vh>Week1 Homework</vh>
-<v t="leo.20181026113109.1"><vh>homework</vh></v>
+<v t="leo.20181026113832.1"><vh>homework-1</vh></v>
+<v t="leo.20181026113109.1"><vh>homework-2</vh></v>
+</v>
+<v t="leo.20181026113659.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181026113659.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
 <v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -357,19 +361,33 @@ make.start()
 </t>
 <t tx="leo.20181026113038.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
+
+						
 </t>
-<t tx="leo.20181026113109.1">* Homework:
+<t tx="leo.20181026113109.1">* Homework-2
 
-[Week1 Homework-1](https://www.youtube.com/watch?v=jTNyVUuFsPo)
+&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/T3ipO2KDy5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181026113659.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
-[Week1 Homework-2](https://www.youtube.com/watch?v=T3ipO2KDy5s)
-
+						
 </t>
+<t tx="leo.20181026113659.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/jTNyVUuFsPo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181026113832.1">* Homework-1
+
+&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/jTNyVUuFsPo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
