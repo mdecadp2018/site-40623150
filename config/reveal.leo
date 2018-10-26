@@ -21,10 +21,15 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181026112232.1" a="E"><vh>W1</vh>
+<v t="leo.20181026112301.1" a="E"><vh>Week1</vh>
+<v t="leo.20181026112347.1"><vh>Week1上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -126,7 +131,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
 
-### 虎科大機械設計工程系
+### 虎科大機械設計工程系MDE
 
 &lt;small&gt;
 Created by [40623150仝允丞]
@@ -325,6 +330,27 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181026112232.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181026112301.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181026112347.1"># Week 1上課內容
+
+* 準備隨身碟、耳機、筆記本
+* 建立個人的課程網頁 40623111.github.io
+* 登入Github帳號領取個人期中作業
+* 編輯 reveal.leo 簡報內容
+* 建立 pelican.leo 網誌
+* 將P37置入隨身碟
 </t>
 </tnodes>
 </leo_file>
