@@ -25,7 +25,7 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181026112232.1" a="E"><vh>W1</vh>
-<v t="leo.20181026112301.1"><vh>Week1</vh>
+<v t="leo.20181026112301.1" a="E"><vh>Week1</vh>
 <v t="leo.20181026112347.1"><vh>Week1上課內容</vh></v>
 </v>
 <v t="leo.20181026113038.1" a="E"><vh>Week1 Homework</vh>
@@ -36,7 +36,9 @@
 </v>
 </v>
 <v t="leo.20181026114735.1" a="E"><vh>W2</vh>
-<v t="leo.20181026114759.1"><vh>Week2</vh></v>
+<v t="leo.20181026114759.1" a="E"><vh>Week2</vh>
+<v t="leo.20181102093213.1"><vh>Week2上課內容</vh></v>
+</v>
 <v t="leo.20181026114830.1" a="E"><vh>Week2 Homework</vh>
 <v t="leo.20181026114922.1"><vh>homework-1</vh></v>
 </v>
@@ -378,7 +380,9 @@ make.start()
 </t>
 <t tx="leo.20181026113109.1">* Homework-2
 
-&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/T3ipO2KDy5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/T3ipO2KDy5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181026113659.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -390,7 +394,9 @@ make.start()
 </t>
 <t tx="leo.20181026113832.1">* Homework-1
 
-&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/jTNyVUuFsPo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/jTNyVUuFsPo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181026114735.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -424,9 +430,20 @@ make.start()
 </t>
 <t tx="leo.20181026114922.1">* Homework-1
 
-&lt;iframe width="1280" height="693" src="https://www.youtube.com/embed/9255LKrhQNo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/9255LKrhQNo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181026115039.1">* Homework-2
 
-&lt;iframe width="1280" height="693" src="https://www.youtube.com/embed/I8crlZZfSww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/I8crlZZfSww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181102093213.1"># Week 2上課內容
+
+* 編輯 reveal.leo 簡報內容
+
+* 編輯 pelican.leo 網誌
+
+* 申請 onshape 帳號</t>
 </tnodes>
 </leo_file>
