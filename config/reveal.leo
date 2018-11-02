@@ -24,26 +24,14 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181026112232.1"><vh>W1</vh>
+<v t="leo.20181026112232.1" a="E"><vh>W1</vh>
 <v t="leo.20181026112301.1" a="E"><vh>Week1</vh>
 <v t="leo.20181026112347.1"><vh>Week1上課內容</vh></v>
-</v>
-<v t="leo.20181026113038.1" a="E"><vh>Week1 Homework</vh>
-<v t="leo.20181026113832.1"><vh>homework-1</vh></v>
-</v>
-<v t="leo.20181026113659.1"><vh>Week1 Homework-2</vh>
-<v t="leo.20181026113109.1"><vh>homework-2</vh></v>
 </v>
 </v>
 <v t="leo.20181026114735.1" a="E"><vh>W2</vh>
 <v t="leo.20181026114759.1" a="E"><vh>Week2</vh>
 <v t="leo.20181102093213.1"><vh>Week2上課內容</vh></v>
-</v>
-<v t="leo.20181026114830.1" a="E"><vh>Week2 Homework</vh>
-<v t="leo.20181026114922.1"><vh>homework-1</vh></v>
-</v>
-<v t="leo.20181026114900.1" a="E"><vh>Week2 Homework-2</vh>
-<v t="leo.20181026115039.1"><vh>homework-2</vh></v>
 </v>
 </v>
 <v t="leo.20181102094645.1" a="E"><vh>W3</vh>
@@ -61,7 +49,11 @@
 <v t="leo.20181102110618.1"><vh>Week5上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20181102094712.1"><vh>W6-8</vh></v>
+<v t="leo.20181102094712.1" a="E"><vh>W6</vh>
+<v t="leo.20181102113943.1" a="E"><vh>Week6</vh>
+<v t="leo.20181102114712.1"><vh>Week6上課內容</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -72,7 +64,7 @@
 <v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18"><vh>導入影片</vh>
+<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -385,34 +377,6 @@ make.start()
 * 建立 pelican.leo 網誌
 * 將P37置入隨身碟
 </t>
-<t tx="leo.20181026113038.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181026113109.1">* Homework-2
-
-&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/T3ipO2KDy5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20181026113659.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181026113832.1">* Homework-1
-
-&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/jTNyVUuFsPo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
 <t tx="leo.20181026114735.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -424,34 +388,6 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-</t>
-<t tx="leo.20181026114830.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181026114900.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181026114922.1">* Homework-1
-
-&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/9255LKrhQNo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20181026115039.1">* Homework-2
-
-&lt;iframe width="910" height="444" src="https://www.youtube.com/embed/I8crlZZfSww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181102093213.1">## Week 2上課內容
@@ -544,5 +480,16 @@ make.start()
 * 右側視圖繪製一直徑0.23的圓
 * 將其移除並選擇完全貫通
 * 完成</t>
+<t tx="leo.20181102113943.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102114712.1">##Week6上課內容
+
+&lt;iframe width="910" height="700" src="https://www.youtube.com/embed/0SKgCf2zJV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
