@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181026112232.1" a="E"><vh>W1</vh>
+<v t="leo.20181026112232.1"><vh>W1</vh>
 <v t="leo.20181026112301.1" a="E"><vh>Week1</vh>
 <v t="leo.20181026112347.1"><vh>Week1上課內容</vh></v>
 </v>
@@ -46,6 +46,18 @@
 <v t="leo.20181026115039.1"><vh>homework-2</vh></v>
 </v>
 </v>
+<v t="leo.20181102094645.1" a="E"><vh>W3</vh>
+<v t="leo.20181102094733.1" a="E"><vh>Week3</vh>
+<v t="leo.20181102102256.1"><vh>Week3上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20181102094700.1" a="E"><vh>W4</vh>
+<v t="leo.20181102102815.1" a="E"><vh>Week4</vh>
+<v t="leo.20181102102853.1"><vh>Week4上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20181102094705.1"><vh>W5</vh></v>
+<v t="leo.20181102094712.1"><vh>W6-8</vh></v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -445,5 +457,48 @@ make.start()
 * 編輯 pelican.leo 網誌
 
 * 申請 onshape 帳號</t>
+<t tx="leo.20181102094645.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102094700.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102094705.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102094712.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102094733.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181102102256.1"># 學習如何使用onshape
+
+* 選擇平面按下Sketch新建草稿
+
+* 畫好草圖之後,選擇草圖面,Extrude擠出
+
+* 除料按Symmetric
+
+* 若要雙向擠出(除料)按Symmetric</t>
+<t tx="leo.20181102102815.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102102853.1"></t>
 </tnodes>
 </leo_file>
