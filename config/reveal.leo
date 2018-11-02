@@ -450,7 +450,7 @@ make.start()
 &lt;iframe width="910" height="444" src="https://www.youtube.com/embed/I8crlZZfSww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20181102093213.1"># Week 2上課內容
+<t tx="leo.20181102093213.1">## Week 2上課內容
 
 * 編輯 reveal.leo 簡報內容
 
@@ -482,7 +482,9 @@ make.start()
 
 
 </t>
-<t tx="leo.20181102102256.1"># 學習如何使用onshape
+<t tx="leo.20181102102256.1">## Week 3上課內容
+
+### 學習如何使用onshape
 
 * 選擇平面按下Sketch新建草稿
 
@@ -499,6 +501,28 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181102102853.1"></t>
+<t tx="leo.20181102102853.1">##Week4上課內容
+
+### 學習onshape基本用法
+
+* thicken 加厚
+
+* revolve 旋轉
+
+* split 切割
+
+* shell 薄殼
+
+* sweep 掃掠
+
+* loft 斷面混成
+
+* Linear pattern 矩形陣列
+
+* Circular pattern 環形陣列
+
+* Fillet 導圓角
+
+* Chamfer 導角</t>
 </tnodes>
 </leo_file>
