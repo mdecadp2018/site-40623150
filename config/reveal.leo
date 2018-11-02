@@ -56,7 +56,11 @@
 <v t="leo.20181102102853.1"><vh>Week4上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20181102094705.1"><vh>W5</vh></v>
+<v t="leo.20181102094705.1" a="E"><vh>W5</vh>
+<v t="leo.20181102110557.1" a="E"><vh>Week5</vh>
+<v t="leo.20181102110618.1"><vh>Week5上課內容</vh></v>
+</v>
+</v>
 <v t="leo.20181102094712.1"><vh>W6-8</vh></v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -505,15 +509,15 @@ make.start()
 
 ### 學習onshape基本用法
 
-* thicken 加厚     * loft 斷面混成
+* thicken 加厚    loft 斷面混成
 
-* revolve 旋轉    * Linear pattern 矩形陣列
+* revolve 旋轉    Linear pattern 矩形陣列
 
-* split 切割         * Circular pattern 環形陣列
+* split 切割  Circular pattern 環形陣列
 
-* shell 薄殼      * Fillet 導圓角
+* shell 薄殼  Fillet 導圓角
 
-* sweep 掃掠      * Chamfer 導角
+* sweep 掃掠  Chamfer 導角
 
 
 
@@ -524,5 +528,21 @@ make.start()
 
 
 </t>
+<t tx="leo.20181102110557.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102110618.1">### W5功課繪製
+
+*在前視圖建立一草圖
+* 繪製一個直徑0.875的圓,再做對稱擠出0.75in
+* 前視圖畫一個直徑0.23的圓,對稱擠出1in
+* 右側視圖繪製一直徑0.23的圓
+* 將其移除並選擇完全貫通
+* 完成</t>
 </tnodes>
 </leo_file>
