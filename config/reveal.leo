@@ -54,6 +54,14 @@
 <v t="leo.20181102114712.1"><vh>Week6上課內容</vh></v>
 </v>
 </v>
+<v t="leo.20181107160347.1" a="E"><vh>W7</vh>
+<v t="leo.20181107160407.1" a="E"><vh>處理靜態網頁問題-1</vh>
+<v t="leo.20181107160435.1"><vh>處理靜態網頁問題-1</vh></v>
+</v>
+<v t="leo.20181107160544.1" a="E"><vh>處理靜態網頁問題-2</vh>
+<v t="leo.20181107160634.1"><vh>處理靜態網頁問題-2</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -368,15 +376,17 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181026112347.1"># Week 1上課內容
+<t tx="leo.20181026112347.1">* 準備隨身碟、耳機、筆記本
 
-* 準備隨身碟、耳機、筆記本
 * 建立個人的課程網頁 40623111.github.io
+
 * 登入Github帳號領取個人期中作業
+
 * 編輯 reveal.leo 簡報內容
+
 * 建立 pelican.leo 網誌
-* 將P37置入隨身碟
-</t>
+
+* 將P37置入隨身碟</t>
 <t tx="leo.20181026114735.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -390,13 +400,13 @@ make.start()
 
 
 </t>
-<t tx="leo.20181102093213.1">## Week 2上課內容
-
-* 編輯 reveal.leo 簡報內容
+<t tx="leo.20181102093213.1">* 編輯 reveal.leo 簡報內容
 
 * 編輯 pelican.leo 網誌
 
-* 申請 onshape 帳號</t>
+* 申請 onshape 帳號
+
+</t>
 <t tx="leo.20181102094645.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -422,9 +432,7 @@ make.start()
 
 
 </t>
-<t tx="leo.20181102102256.1">## Week 3上課內容
-
-### 學習如何使用onshape
+<t tx="leo.20181102102256.1">### 學習如何使用onshape
 
 * 選擇平面按下Sketch新建草稿
 
@@ -432,7 +440,9 @@ make.start()
 
 * 除料按Symmetric
 
-* 若要雙向擠出(除料)按Symmetric</t>
+* 若要雙向擠出(除料)按Symmetric
+
+</t>
 <t tx="leo.20181102102815.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -441,9 +451,7 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181102102853.1">##Week4上課內容
-
-### 學習onshape基本用法
+<t tx="leo.20181102102853.1">### 學習onshape基本用法
 
 * thicken 加厚    loft 斷面混成
 
@@ -474,12 +482,14 @@ make.start()
 </t>
 <t tx="leo.20181102110618.1">### W5功課繪製
 
-*在前視圖建立一草圖
+* 在前視圖建立一草圖
 * 繪製一個直徑0.875的圓,再做對稱擠出0.75in
 * 前視圖畫一個直徑0.23的圓,對稱擠出1in
 * 右側視圖繪製一直徑0.23的圓
 * 將其移除並選擇完全貫通
-* 完成</t>
+* 完成
+
+</t>
 <t tx="leo.20181102113943.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -488,8 +498,63 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181102114712.1">##Week6上課內容
+<t tx="leo.20181102114712.1">### 學習如何繪製時鐘
 
-&lt;iframe width="910" height="700" src="https://www.youtube.com/embed/0SKgCf2zJV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+* 繪製草圖,再做旋轉
+
+* 外圈倒圓角
+
+* 做時鐘的底面
+
+* 使用文字(text),繪製時鐘的數字
+
+* 指針部分繪製:使用平面指令,建立工作平面,再繪製草圖並擠出
+
+* 繪製轉軸:先畫好需要的草圖,再做斷面混成並用消除圓柱外多餘的材料
+
+* 繪製指針的刻度,並做環形陣列
+
+</t>
+<t tx="leo.20181107160347.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181107160407.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181107160435.1">### 動態網頁出現問題時處理方法
+
+* 使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程
+
+* 1.更新程式碼:
+
+* 從 https://localhost8443 啟動動態網頁
+
+* 動態資料放在config/content.htm
+
+* 動態網頁出問題時可能是系統無法處理,要解決版本的問題
+
+</t>
+<t tx="leo.20181107160544.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181107160634.1">* 舊的程式沒辦法用圖片當作標題,程式升級後就不會產生錯誤
+
+* 升級flaskapp.py試著用同樣程式處理
+
+* 升級時記得content.htm要停留在某一個版本
+
+* 2.回報問題:
+
+* 如果還是無法處理問題,從課程issues回報問題
+</t>
 </tnodes>
 </leo_file>
