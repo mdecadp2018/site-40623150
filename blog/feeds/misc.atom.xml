@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623150 仝允丞 - Misc</title><link href="https://mdecadp2018.github.io/site-40623150/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623150/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623150/blog/</id><updated>2018-09-14T11:00:00+08:00</updated><entry><title>Onshape</title><link href="https://mdecadp2018.github.io/site-40623150/blog/onshape.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623150</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623150/blog/onshape.html</id><summary type="html">&lt;p&gt;Week1上課內容&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week1上課內容&lt;/p&gt;
-
-
-&lt;h2&gt;學習要點&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;3D 環境導航 (navigate)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;說明基於草圖 (sketch-based)的建模&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;從 2D 過渡到 3D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;介紹基本草圖&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;附錄A：鍵盤快捷鍵 (keyboard shotcuts)，滑鼠和觸控平面手勢 (touchpad gestures)，檢視工具&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;附錄B：導航說明檔，建立帳號，訂閱計劃 (subscription plans)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;圓柱薄殼 (cylinder shell) - 繪圖界面與可視化/檢視的介紹&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;針對既有草圖的模型 - 接續建立特徵&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>Onshape</title><link href="https://mdecadp2018.github.io/site-40623150/blog/onshape.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623150</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623150/blog/onshape.html</id><summary type="html">&lt;p&gt;onshape學習要點&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623150 仝允丞 - Misc</title><link href="https://mdecadp2018.github.io/site-40623150/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623150/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623150/blog/</id><updated>2018-09-14T11:00:00+08:00</updated><entry><title>Onshape</title><link href="https://mdecadp2018.github.io/site-40623150/blog/onshape.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623150</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623150/blog/onshape.html</id><summary type="html">&lt;p&gt;onshape學習要點&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;onshape學習要點&lt;/p&gt;
 
 
@@ -89,4 +50,18 @@
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623150/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623150/blog/2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623150/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623150/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623150/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623150/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623150/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623150/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623150/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623150/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623150/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623150/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623150/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623150/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</content><category term="2018Fall"></category></entry></feed>
