@@ -7,7 +7,7 @@ Slug: week1
 Author: 40623150
 ---
 
-2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
+Week1課程內容及心得
 
 <!-- PELICAN_END_SUMMARY -->
 
