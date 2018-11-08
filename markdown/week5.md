@@ -1,12 +1,16 @@
 ---
-Title: 2018 Fall 分組網誌
-Date: 2018-09-10 11:00
+Title: Week5上課內容
+Date: 2018-10-12 11:00
 Category: Misc
 Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog5
-Author: NFUMDE
+Slug: week5
+Author: 40623150
 ---
 
 2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
 
 <!-- PELICAN_END_SUMMARY -->
+
+課程內容
+----
+
