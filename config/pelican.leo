@@ -68,8 +68,11 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
-<v t="leo.20181108190348.1" a="E"><vh>Week1</vh>
-<v t="leo.20181108190410.1"><vh>@edit week1.md</vh></v>
+<v t="leo.20181108190348.1" a="E"><vh>學習要點</vh>
+<v t="leo.20181108190410.1"><vh>@edit onshape.md</vh></v>
+</v>
+<v t="leo.20181108193206.1" a="E"><vh>Week1</vh>
+<v t="leo.20181108193231.1"><vh>@edit week1.md</vh></v>
 </v>
 <v t="leo.20181108191038.1" a="E"><vh>Week2</vh>
 <v t="leo.20181108191118.1"><vh>@edit week2.md</vh></v>
@@ -131,6 +134,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181108191043.1"></t>
 <t tx="leo.20181108191044.1"></t>
 <t tx="leo.20181108191045.1"></t>
+<t tx="leo.20181108193206.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
